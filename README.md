@@ -28,9 +28,9 @@
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
 | 1  | **Java 스트림 및 람다를 이용한 코드 리팩토링** | 기존 Java 코드를 Stream,Lambda, Optional을 사용해 현대적으로 리팩토링 | Java 17, Steam, Lambda, Optinal | &nbsp;&nbsp;👨‍👨‍👦‍👦<br>(4명)| [GitHub 링크](https://github.com/ChoiYoungHa/WooriFISA-java-stream-refactoring) | 2024-07-19 |
-| 2  | **타이타닉 데이터 생존률 실시간 시각화** | RDB 테이블 변경사항을 Logstash가 실시간으로 감지하고, Kibana를 통해 생존률 지표를 시각화합니다. | ElasticSearch, Logstash, Kibana, Mysql | &nbsp;&nbsp;👩‍👩‍👧 <br> (3명) | [GitHub 링크](https://github.com/ChoiYoungHa/WooriFISA-ELK-RDB-Pipline) | 2024-07-25 |
-| 3  | **JPA 신입사원 OJT** | 만약에 신입사원 JPA OJT를 진행한다면 어떤 JPA 문제를 내어 이해시킬 것인가 생각하며 만든 문제입니다. | Java, JPA, 영속성 컨텍스트, JPQL, N+1 문제 | &nbsp;&nbsp;👩‍👩‍👧‍👦 <br> (4명)| [GitHub 링크](https://github.com/ChoiYoungHa/WooriFISA-JPA-OJT) | 2024-08-02 |
-| 4  | **Daily Travel** | 여행정보 비대칭을 해소하기 위해 만든 여행지 공유 SNS | Spring Boot, Spring Data JPA, RESTful API, Next.js | &nbsp;&nbsp;👩‍👩‍👧‍👦 <br> (4명) | [GitHub 링크](https://github.com/ChoiYoungHa/WooriFISA-DailyTravel) | 2024-08-16 |
+| 2  | **타이타닉 데이터 생존률 실시간 시각화** | RDB 테이블 변경사항을 Logstash가 실시간으로 감지하고, Kibana를 통해 생존률 지표를 시각화합니다. | ElasticSearch, Logstash, Kibana, Mysql | &nbsp;&nbsp;👩‍👩‍👧 <br>(3명) | [GitHub 링크](https://github.com/ChoiYoungHa/WooriFISA-ELK-RDB-Pipline) | 2024-07-25 |
+| 3  | **JPA 신입사원 OJT** | 만약에 신입사원 JPA OJT를 진행한다면 어떤 JPA 문제를 내어 이해시킬 것인가 생각하며 만든 문제입니다. | Java, JPA, 영속성 컨텍스트, JPQL, N+1 문제 | &nbsp;&nbsp;👩‍👩‍👧‍👦 <br>(4명)| [GitHub 링크](https://github.com/ChoiYoungHa/WooriFISA-JPA-OJT) | 2024-08-02 |
+| 4  | **Daily Travel** | 여행정보 비대칭을 해소하기 위해 만든 여행지 공유 SNS | Spring Boot, Spring Data JPA, RESTful API, Next.js | &nbsp;&nbsp;👩‍👩‍👧‍👦 <br>(4명) | [GitHub 링크](https://github.com/ChoiYoungHa/WooriFISA-DailyTravel) | 2024-08-16 |
 
 ---
 
