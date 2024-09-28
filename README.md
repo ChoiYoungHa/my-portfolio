@@ -20,6 +20,7 @@
 | 4  | **Docker Image Optimization** | Distroless, Muti-stage build, Docker Slim을 사용하여 도커 이미지 크기를 최적화합니다. | Docker Mutil-stage, Docker Slim, Docker ignore, Distroless | 👩‍👩<br>(2명) | [GitHub 링크](https://github.com/ChoiYoungHa/FISA3-DockerImageOptimization) | 2024-09-24 |
 | 5  | **DevSecOps: 취약점 분석 및 슬랙 알람 자동화** | Git Action, Code Canning, Trivy를 이용하여 취약점 분석을 자동화하고 알람을 보내줍니다.  | Git Action, Code Scanning, Docker, Slack | 👩‍👩<br> (2명) | [GitHub 링크](https://github.com/ChoiYoungHa/FISA3-Docker-Trivyㄴ) | 2024-09-25 |
 | 6  | **ElasticSearch Batch Indexing** | crontab 배치작업으로 3시간마다 뉴스기사를 수집하고, ElasticSearch에서 검색될 수 있게 합니다. | ELK Stack (Elasticsearch, Logstash, Kibana), Python, Crontab | &nbsp;&nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/ChoiYoungHa/WooriFISA-ELK-Batch-Indexing) | 2024-09-20 |
+| 7  | **DB서버 이중화 Active, Standby 구축 후 Migration 자동화** | VM1, VM2 각각의 서버에 데이터베이스 이중화 Active, Standby구축하고 2시간마다 DB 데이터를 마이그레이션 합니다. | Docker-Compose, Docker, Crontab, VirtualBox, ShellScript | &nbsp;&nbsp;🙋(개인) | [GitHub 링크](https://github.com/ChoiYoungHa/Active-Standby-DB-Migration) | 2024-09-27 |
 
 <br>
 
