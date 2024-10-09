@@ -1,6 +1,6 @@
 # ⛳My-Personal-Projects-Portfolio
 
-*최종 업데이트: 2024년 9월 26일*
+*최종 업데이트: 2024년 10월 09일*
 
 <br>
 
@@ -22,6 +22,8 @@
 | 6  | **ElasticSearch Batch Indexing** | crontab 배치작업으로 3시간마다 뉴스기사를 수집하고, ElasticSearch에서 검색될 수 있게 합니다. | ELK Stack (Elasticsearch, Logstash, Kibana), Python, Crontab | &nbsp;&nbsp;👩‍👩‍👧‍👦<br>(4명) | [GitHub 링크](https://github.com/ChoiYoungHa/WooriFISA-ELK-Batch-Indexing) | 2024-09-20 |
 | 7  | **DB서버 이중화 Active, Standby 구축 후 Migration 자동화** | VM1, VM2 각각의 서버에 데이터베이스 이중화 Active, Standby구축하고 2시간마다 DB 데이터를 마이그레이션 합니다. | Docker-Compose, Docker, Crontab, VirtualBox, ShellScript | &nbsp;&nbsp;🙋(개인) | [GitHub 링크](https://github.com/ChoiYoungHa/Active-Standby-DB-Migration) | 2024-09-27 |
 | 8  | **Git Webhook Jenkins CI/CD Pipline 구축** | 애플리케이션을 개발단계부터 배포단계까지 자동화하여 빠르고 효율적으로 배포할 수 있게 CI/CD를 구축합니다. | Jenkins, Webhook, ShellScript, Docker | &nbsp;&nbsp;🙋(개인) | [GitHub 링크](https://github.com/ChoiYoungHa/FISA3-Jenkins-CICD) | 2024-10-01 |
+| 9  | **MiniKube에 Spring App 배포** | 로컬환경에서 가볍게 쿠버네티스를 사용해보며 쿠버네티스의 컨셉과 구조를 이해합니다.  | MiniKube, Docker, Spring | &nbsp;&nbsp;🙋(개인) | [GitHub 링크](https://github.com/ChoiYoungHa/FISA3-MiniKube-Spring) | 2024-10-03 |
+| 10  | **Kubernetes Cluster 부하 테스트🚀** | 로컬환경에서 Kubernetes 클러스터를 구축하고 피크타임에 서비스가 얼마나 버틸 수 있는지 시뮬레이션 해봅니다.  | Kubernetes, Jmeter, Nginx, Spring | &nbsp;&nbsp;🙋(개인) | [GitHub 링크](https://github.com/ChoiYoungHa/FISA3-Kubernetes-Cluster-StressTest.) | 2024-10-08 |
 
 <br>
 
