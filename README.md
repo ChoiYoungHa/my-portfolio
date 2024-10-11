@@ -24,7 +24,7 @@
 | 8  | **Git Webhook Jenkins CI/CD Pipline 구축** | 애플리케이션을 개발단계부터 배포단계까지 자동화하여 빠르고 효율적으로 배포할 수 있게 CI/CD를 구축합니다. | Jenkins, Webhook, ShellScript, Docker | &nbsp;&nbsp;🙋(개인) | [GitHub 링크](https://github.com/ChoiYoungHa/FISA3-Jenkins-CICD) | 2024-10-01 |
 | 9  | **MiniKube에 Spring App 배포** | 로컬환경에서 가볍게 쿠버네티스를 사용해보며 쿠버네티스의 컨셉과 구조를 이해합니다.  | MiniKube, Docker, Spring | &nbsp;&nbsp;🙋(개인) | [GitHub 링크](https://github.com/ChoiYoungHa/FISA3-MiniKube-Spring) | 2024-10-03 |
 | 10  | **Kubernetes Cluster 부하 테스트🚀** | 로컬환경에서 Kubernetes 클러스터를 구축하고 피크타임에 서비스가 얼마나 버틸 수 있는지 시뮬레이션 해봅니다.  | Kubernetes, Jmeter, Nginx, Spring | &nbsp;&nbsp;👩‍👩(2명) | [GitHub 링크](https://github.com/ChoiYoungHa/FISA3-Kubernetes-Cluster-StressTest.) | 2024-10-08 |
-| 11  | **Jenkins AWS EC2, S3 CI/CD 구축** | Jenkins를 활용하여 AWS EC2, S3 환경에서 CI/CD 파이프라인을 구축합니다.  | Jenkins, EC2, S3, git webhook | &nbsp;&nbsp;🙋(개인) | [GitHub 링크](https://github.com/ChoiYoungHa/FISA3-Kubernetes-Cluster-StressTest.) | 2024-10-08 |
+| 11  | **Jenkins AWS EC2, S3 CI/CD 구축** | Jenkins를 활용하여 AWS EC2, S3 환경에서 CI/CD 파이프라인을 구축합니다.  | Jenkins, EC2, S3, git webhook | &nbsp;&nbsp;🙋(개인) | [GitHub 링크](https://github.com/ChoiYoungHa/FISA3-Kubernetes-Cluster-StressTest.) | 2024-10-11 |
 
 <br>
 
