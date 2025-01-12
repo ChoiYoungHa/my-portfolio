@@ -25,6 +25,9 @@
 | 9  | **MiniKube에 Spring App 배포** | 로컬환경에서 가볍게 쿠버네티스를 사용해보며 쿠버네티스의 컨셉과 구조를 이해합니다.  | MiniKube, Docker, Spring | &nbsp;&nbsp;🙋(개인) | [GitHub 링크](https://github.com/ChoiYoungHa/FISA3-MiniKube-Spring) | 2024-10-03 |
 | 10  | **Kubernetes Cluster 부하 테스트🚀** | 로컬환경에서 Kubernetes 클러스터를 구축하고 피크타임에 서비스가 얼마나 버틸 수 있는지 시뮬레이션 해봅니다.  | Kubernetes, Jmeter, Nginx, Spring | &nbsp;&nbsp;👩‍👩(2명) | [GitHub 링크](https://github.com/ChoiYoungHa/FISA3-Kubernetes-Cluster-StressTest) | 2024-10-08 |
 | 11  | **Jenkins AWS EC2, S3 CI/CD 구축** | Jenkins를 활용하여 AWS EC2, S3 환경에서 CI/CD 파이프라인을 구축합니다.  | Jenkins, EC2, S3, git webhook | 👩‍👩<br>(2명) | [GitHub 링크](https://github.com/ChoiYoungHa/Jenkins-EC2-S3-CICD) | 2024-10-11 |
+| 12 | **Terraform을 활용한 AWS EC2, S3 구축** | Terraform을 사용하여 AWS S3 버킷과 EC2 인스턴스를 생성하고, 웹 호스팅을 위한 인프라를 코드로 관리합니다. IAM 역할/정책 설정 및 S3 정적 웹사이트 호스팅 구성을 포함합니다. | Terraform, AWS(S3, EC2, IAM), IaC | 👩‍👩<br>(2명) | [GitHub 링크](https://github.com/ChoiYoungHa/FISA3-Terraform-S3) | 2024-10-16 |
+| 13 | **Terraform AWS VPC 구축** | Terraform을 사용하여 AWS 네트워크 인프라를 자동으로 구축합니다. VPC, 서브넷, 라우팅 테이블, 게이트웨이 등을 코드로 구성하여 안전하고 효율적인 네트워크 환경을 구현합니다. | Terraform, AWS(VPC, IAM), IaC | 👩‍👩<br>(2명) | [GitHub 링크](https://github.com/ChoiYoungHa/FISA3-Terraform-AWS) | 2024-10-17 |
+
 
 <br>
 
